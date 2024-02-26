@@ -1,4 +1,5 @@
 # Iris Flower Prediction Webapp
+![](https://github.com/Utshav-paudel/Iris-flower-calssification-webapp/blob/9b741c74d6365e78726bef1116c435625dce80d4/project%20demo.png)
 * Classify the flower into setosa, virginica and versicolor  using following features :
   - Sepal Length
   - Sepal Width
@@ -9,4 +10,4 @@
  
   * ## NOTE : It is also known as CART(Classification and Regression Tree) Algorithm
   
-![](https://github.com/Utshav-paudel/Iris-flower-calssification-webapp/blob/9b741c74d6365e78726bef1116c435625dce80d4/project%20demo.png)
+
