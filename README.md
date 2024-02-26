@@ -1,9 +1,9 @@
 # Iris Flower Prediction Webapp
 * Classify the flower into setosa, virginica and versicolor  using following features :
-      * Sepal Length
-      * Sepal Width
-      * Petal Length
-      * Petal Width
+  - Sepal Length
+  - Sepal Width
+  -  Petal Length
+  -   Petal Width
 * ### Uses Decision Tree classifier as machine learning algorithm.
   * Decision Tree is a supervised Machine learning algorithm that uses a rule base approach to make decisions , it uses datasets features to create yes/no questions and continually split the dataset until you isolate all data point belonging to each class.
  
